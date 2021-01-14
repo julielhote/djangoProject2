@@ -1,2 +1,2 @@
 # djangoProject2
-Basic Tutorial
+GraphQl Basic Tutorial
